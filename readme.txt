@@ -1,0 +1,3 @@
+- Untuk proses embedding (dari sisi signer), buka file gui.fig
+- Untuk proses verifying (dari sisi verifier), buka file decryptgui.fig
+- Fungsi hash yang digunakan adalah SHA-256, sesuai pada file sha256.m
